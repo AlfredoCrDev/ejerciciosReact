@@ -1,0 +1,10 @@
+.led {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.mostrarNombre, .sumaResta, .botonColor, .cambiarText, .divled {
+  padding: 50px;
+  border: solid 1px black;
+}
